@@ -1,0 +1,27 @@
+.footer {
+    max-width: 900px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 11px -7px 5px 0px blue;
+    border: 2px solid blue;
+    margin: 10px auto;
+    width: 95%;
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(224, 224, 224);
+}
+
+.footer__Link {
+    color: whitesmoke;
+    background-color: grey;
+    border-radius: 5px;
+    padding: 10px;
+    line-height: 2;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;   
+    margin: 5px auto;
+}
+
+.footer__Link:hover {
+    background-color: rgb(83, 82, 82);
+}

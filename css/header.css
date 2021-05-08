@@ -1,0 +1,12 @@
+.header {
+    max-width: 800px;
+    color: whitesmoke;
+    background-color: #222;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: 5px auto;
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+}

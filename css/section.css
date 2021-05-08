@@ -1,0 +1,60 @@
+.section {
+    max-width: 900px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    background-color: rgb(224, 224, 224);
+    margin: 20px auto;
+    color: black;
+    line-height: 2;
+    box-shadow: 11px -7px 5px 0px blue;
+    border: 2px ridge blue;
+    padding: 30px;
+    border-radius: 10px;
+    overflow: auto;
+    width: 95%;
+}
+
+.section__table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+}
+
+.section__tableHeader {
+    color: white;
+    background-color: rgb(107, 107, 240);
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+.section__tableCell {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.section__tableRow:hover {
+    background-color: gray;
+}
+
+.section__look {
+    text-align: center;
+    padding: 10px;
+}
+
+.section__lookButton {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.black {
+    color: #eee;
+    background: #222;
+    font-family: 'Lato', sans-serif;
+}
+
+.section__deletePicture {
+    border-radius: 10px;
+    padding: 10px;
+}
